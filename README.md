@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @elcinesin
-- 👀 I’m interested in Data Science.
+- 👀 I’m a Data Science.
+- 🔮 I'm a mathematician.
 
 <!---
 elcinesin/elcinesin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
